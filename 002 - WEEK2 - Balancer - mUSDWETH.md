@@ -1,9 +1,9 @@
-| MTA rewards week starting July 6th, 2020 (taken at c.9:42pm UTC on 8/7/20)    |             |
-| ----------------------------------------------------------------------------- | ----------- |
-| Pool: mUSD/WETH                                                               |             |
-| Total number of addresses                                                     | 122         |
-| TOTAL pool balance                                                            | 43585.0     |
-| Total MTA allocation                                                          | 50000       |
+| MTA rewards week starting July 3rd, 2020 (taken at c.9:42pm UTC on 8/7/20) |         |
+| -------------------------------------------------------------------------- | ------- |
+| Pool: mUSD/WETH                                                            |         |
+| Total number of addresses                                                  | 122     |
+| TOTAL pool balance                                                         | 43585.0 |
+| Total MTA allocation                                                       | 50000   |
 
 | HolderAddress                              | Balancer Pool token balance | % of pool | MTA allocation |
 | ------------------------------------------ | --------------------------- | --------- | -------------- |
@@ -129,4 +129,3 @@
 | 0xa44740d55bb7726d22ea62b68830dd15f31610e6 | 0.8994915858                | 0.0021%   | 1.0319         |
 | 0x249103138d8535ac2650c83d8dd656cd59bd927a | 0.8741043478                | 0.0020%   | 1.0028         |
 | 0xcb01f3d84f125667f87ed21a6c3854021c9d90db | 0.2082448501                | 0.0005%   | 0.2389         |
-

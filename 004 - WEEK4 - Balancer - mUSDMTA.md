@@ -1,4 +1,4 @@
-| MTA rewards week starting July 20th, 2020 (taken at c.02:40 UTC on 23/07/20) |        | 
+| MTA rewards week starting July 17th, 2020 (taken at c.02:40 UTC on 23/07/20) |        | 
 |------------------------------------------------------------------------------|--------| 
 | Pool                                                                         | mUSD/MTA Balancer | 
 | Total number of addresses                                                    | 215    | 
