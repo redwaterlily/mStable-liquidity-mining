@@ -1,8 +1,9 @@
-| BAL rewards week starting Aug 03rd, 2020 |                         |
-| ---------------------------------------- | ----------------------- |
-| Pool                                     | mUSD/WETH Balancer      |
-| Total number of addresses                | 215                     |
-| Total BAL airdropped                     | 7833.505229949070479848 |
+| BAL rewards week starting Aug 03rd, 2020 |                                            |
+| ---------------------------------------- | ------------------------------------------ |
+| Pool                                     | mUSD/WETH Balancer                         |
+| EARN Address                             | 0xf7575d4d4db78f6ba43c734616c51e9fd4baa7fb |
+| Total number of addresses                | 215                                        |
+| Total BAL airdropped                     | 7833.505229949070479848                    |
 
 _Run the script on mStable-app to verify yourself: `yarn run --silent pool-rewards --contractAddress=0xf7575d4d4db78f6ba43c734616c51e9fd4baa7fb --totalPlatformRewards=7833.505229949070479848 --start=1596460889 --end=1597062435 --endBlockNumber=10632136 >> ./output/musdweth.json`_
 

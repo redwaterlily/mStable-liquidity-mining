@@ -1,8 +1,9 @@
-| BAL rewards week starting Aug 03rd, 2020 |                         |
-| ---------------------------------------- | ----------------------- |
-| Pool                                     | mUSD/MTA 95/5 Balancer  |
-| Total number of addresses                | 244                     |
-| Total BAL airdropped                     | 1289.023513962544618458 |
+| BAL rewards week starting Aug 03rd, 2020 |                                            |
+| ---------------------------------------- | ------------------------------------------ |
+| Pool                                     | mUSD/MTA 95/5 Balancer                     |
+| EARN Address                             | 0xf4a7d2d85f4ba11b5c73c35e27044c0c49f7f027 |
+| Total number of addresses                | 244                                        |
+| Total BAL airdropped                     | 1289.023513962544618458                    |
 
 _Run the script on mStable-app to verify yourself: `yarn run --silent pool-rewards --contractAddress=0xf4a7d2d85f4ba11b5c73c35e27044c0c49f7f027 --totalPlatformRewards=1289.023513962544618458 --start=1596460889 --end=1597062435 --endBlockNumber=10632136 >> ./output/musdmta955.json`_
 
